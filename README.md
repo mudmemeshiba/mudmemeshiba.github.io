@@ -1,2 +1,1 @@
-my personal webpage 
-testing
+Hi there! I'm Pacharamon Putrasreni, a 4th-year computer engineering at Kasetsart University in Bangkok, Thailand.
